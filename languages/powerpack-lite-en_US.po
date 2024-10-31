@@ -1,0 +1,3974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PowerPack Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-25 07:16+0000\n"
+"PO-Revision-Date: 2018-12-25 07:16+0000\n"
+"Last-Translator: Admin <pratikj@wponlinesupport.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: powerpack-lite.php:97 powerpack-lite.php:109
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Name of the plugin
+#: powerpack-lite.php:230 includes/admin/class-pwpc-admin.php:47
+#: includes/admin/pwpc-dashboard.php:121
+msgid "PowerPack Lite"
+msgstr ""
+
+#: includes/class-pwpc-script.php:212
+#: modules/google-fonts/includes/class-pwpc-gfpw-script.php:69
+msgid "Click OK to reset all options. All settings will be lost!"
+msgstr ""
+
+#: includes/class-pwpc-script.php:213
+msgid "Are you sure to remove all images from this gallery!"
+msgstr ""
+
+#: includes/pwpc-functions.php:376
+msgid "Active Modules"
+msgstr ""
+
+#: includes/pwpc-functions.php:377
+msgid "Activated modules on your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:382
+msgid "Modules"
+msgstr ""
+
+#: includes/pwpc-functions.php:383
+msgid "Enable various modules for your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:389
+#: includes/admin/settings/register-settings.php:238
+msgid "Widgets"
+msgstr ""
+
+#: includes/pwpc-functions.php:390
+msgid "Choose from various widgets for your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:396
+msgid "Appearance"
+msgstr ""
+
+#: includes/pwpc-functions.php:397
+msgid "Choose styling modules for your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:403
+msgid "Security and Privacy"
+msgstr ""
+
+#: includes/pwpc-functions.php:404
+msgid "Choose security and privacy modules for your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:432 includes/admin/pwpc-about.php:97
+#: modules/faq/includes/pwpc-faq-post-types.php:23
+msgid "FAQ"
+msgstr ""
+
+#: includes/pwpc-functions.php:433
+msgid ""
+"Faqs module allows you add, manage and display FAQ on your website. You can "
+"use this plugin as a jquery ui accordion."
+msgstr ""
+
+#: includes/pwpc-functions.php:436
+msgid "Faqs module allows you add, manage and display FAQ on your website."
+msgstr ""
+
+#: includes/pwpc-functions.php:437
+msgid "You can use this plugin as a jquery accordion also."
+msgstr ""
+
+#: includes/pwpc-functions.php:438 includes/pwpc-functions.php:470
+msgid "This plugin is created with custom post type."
+msgstr ""
+
+#: includes/pwpc-functions.php:444 includes/admin/class-pwpc-admin.php:239
+#: includes/admin/settings/register-settings.php:201
+msgid "Configure"
+msgstr ""
+
+#: includes/pwpc-functions.php:448
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-settings.php:23
+msgid "Instagram Slider and Carousel Plus Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:449
+msgid ""
+"A fully responsive plugin to display your Instagram pictures in a Grid, "
+"Slider and Carousel view with widget."
+msgstr ""
+
+#: includes/pwpc-functions.php:451
+msgid "Instagram Slider and Carousel"
+msgstr ""
+
+#: includes/pwpc-functions.php:453
+msgid ""
+"A fully responsive plugin to display your Instagram pictures in a Grid, "
+"Slider, Carousel or Block view by your Instagram Username."
+msgstr ""
+
+#: includes/pwpc-functions.php:454
+msgid ""
+"This plugin fetches Instagram photo on a periodically time base which you "
+"can set from plugin setting page."
+msgstr ""
+
+#: includes/pwpc-functions.php:455
+msgid "Widgets for Grid view with various options."
+msgstr ""
+
+#: includes/pwpc-functions.php:462 includes/admin/pwpc-about.php:153
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:73
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:75
+msgid "Instagram"
+msgstr ""
+
+#: includes/pwpc-functions.php:465 includes/pwpc-functions.php:478
+#: includes/admin/pwpc-about.php:104
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:22
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:23
+msgid "Logo Showcase"
+msgstr ""
+
+#: includes/pwpc-functions.php:466
+msgid ""
+"Logo Showcase is a fully responsive plugin to display client logo, partners "
+"logo, sponsor logo with grid, slider or carousel view."
+msgstr ""
+
+#: includes/pwpc-functions.php:469
+msgid ""
+"A fully responsive plugin to display client logo, partners logo, sponsor "
+"logo with grid, slider, carousel or filterization view."
+msgstr ""
+
+#: includes/pwpc-functions.php:471
+msgid ""
+"[Premium Only] - 15+ predefined designs, 2 Widgets for Slider and Grid view "
+"with various options."
+msgstr ""
+
+#: includes/pwpc-functions.php:481
+msgid "Portfolio & Projects"
+msgstr ""
+
+#: includes/pwpc-functions.php:482
+msgid ""
+"Display Portfolio or Projects with title, description and creative Mobile "
+"touch slider image gallery."
+msgstr ""
+
+#: includes/pwpc-functions.php:485
+msgid ""
+"A fully responsive plugin to display portfolio or projects with title, "
+"description and creative Mobile touch slider image gallery."
+msgstr ""
+
+#: includes/pwpc-functions.php:486
+msgid ""
+"[Premium Only] - 15+ predefined designs, Portfolio Filtration and 2 "
+"Portfolio Pop-up styles (Inline and Popup)."
+msgstr ""
+
+#: includes/pwpc-functions.php:495 includes/pwpc-functions.php:508
+msgid "Responsive Recent Post Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:496
+msgid ""
+"A fully responsive plugin to display posts in a beautiful slideshow. It is "
+"best choice and the most eye-catching way to display posts."
+msgstr ""
+
+#: includes/pwpc-functions.php:499
+msgid ""
+"A fully responsive plugin to display WordPress default posts in a beautiful "
+"slideshow."
+msgstr ""
+
+#: includes/pwpc-functions.php:500
+msgid "Post Slider and Post Carousel view."
+msgstr ""
+
+#: includes/pwpc-functions.php:501
+msgid ""
+"[Premium Only] - Works with any Custom Post Type, GridBox (Block) view and 3 "
+"widgets for post list and slider."
+msgstr ""
+
+#: includes/pwpc-functions.php:511 includes/pwpc-functions.php:525
+#: includes/admin/pwpc-about.php:125
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:22
+msgid "Testimonials"
+msgstr ""
+
+#: includes/pwpc-functions.php:512
+msgid ""
+"Display testimonials, reviews or quotes in multiple ways. You can quickly "
+"add your testimonials with their name, jobs, pictures and etc."
+msgstr ""
+
+#: includes/pwpc-functions.php:515
+msgid ""
+"A fully responsive plugin to display testimonials in a beautiful slideshow "
+"and list view."
+msgstr ""
+
+#: includes/pwpc-functions.php:516
+msgid "Testimonials with front end form submission."
+msgstr ""
+
+#: includes/pwpc-functions.php:517
+msgid "Widget with testimonials list and slider view."
+msgstr ""
+
+#: includes/pwpc-functions.php:518
+msgid "20 predefined designs and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:528 includes/admin/pwpc-about.php:111
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:22
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:23
+msgid "Team Showcase"
+msgstr ""
+
+#: includes/pwpc-functions.php:529
+msgid ""
+"Team Showcase and Slider allows you to easily create and display your team "
+"members & staff and display in a grid or slider view."
+msgstr ""
+
+#: includes/pwpc-functions.php:532
+msgid ""
+"Plugin allows you to easily create and display your team members & staff and "
+"display in a grid or slider view."
+msgstr ""
+
+#: includes/pwpc-functions.php:533
+msgid ""
+"[Premium Only] - 25 predefined designs, 2 popup designs and theme for team "
+"members."
+msgstr ""
+
+#: includes/pwpc-functions.php:542
+msgid "Timeline and History Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:543
+msgid ""
+"A fully responsive and advanced WordPress plugin that showcases your life "
+"history or your company's story."
+msgstr ""
+
+#: includes/pwpc-functions.php:546
+msgid ""
+"A fully responsive plugin to display your life story or company story in a "
+"Horizontal or Vertical slider with various animations."
+msgstr ""
+
+#: includes/pwpc-functions.php:547
+msgid "Works with Wordpress default post also."
+msgstr ""
+
+#: includes/pwpc-functions.php:548
+msgid "[Premium Only] - 5+ predefined designs, Vertical Timeline and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:557 includes/admin/pwpc-about.php:139
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:22
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:23
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:38
+msgid "Video Gallery"
+msgstr ""
+
+#: includes/pwpc-functions.php:558
+msgid ""
+"Video Gallery is a responsive HTML5, YouTube, Dailymotion, Vimeo and other "
+"video gallery in grid or slider view with popup."
+msgstr ""
+
+#: includes/pwpc-functions.php:561
+msgid ""
+"A fully responsive plugin to display HTML5, YouTube, Vimeo and other video "
+"in a grid or slider view with popup."
+msgstr ""
+
+#: includes/pwpc-functions.php:562
+msgid ""
+"[Premium Only] - 18 predefined designs, Supports JW Player and various video "
+"settings like auto play and etc."
+msgstr ""
+
+#: includes/pwpc-functions.php:571
+msgid "Ticker Ultimate with RSS"
+msgstr ""
+
+#: includes/pwpc-functions.php:572
+msgid ""
+"Display WordPress Default Post, Custom Post and RSS Post in a ticker mode "
+"with Fade, Vertical and Horizontal slider effect."
+msgstr ""
+
+#: includes/pwpc-functions.php:575
+msgid ""
+"Display WordPress Default Post or any Custom Post in a ticker mode with Fade,"
+" Vertical and Horizontal slider effect."
+msgstr ""
+
+#: includes/pwpc-functions.php:576
+msgid "[Premium Only] - 2 predefined designs and RSS posts with ticker."
+msgstr ""
+
+#: includes/pwpc-functions.php:585
+msgid "Maintenance Mode"
+msgstr ""
+
+#: includes/pwpc-functions.php:586
+msgid ""
+"Maintenance mode or a coming soon page with countdown timer and responsive "
+"layout."
+msgstr ""
+
+#: includes/pwpc-functions.php:589
+msgid ""
+"A very simple plugin to put your website on maintenance mode with timer."
+msgstr ""
+
+#: includes/pwpc-functions.php:590
+msgid ""
+"Simply enable the maintenance mode from the settings and in few seconds you "
+"can put your site in maintenance mode."
+msgstr ""
+
+#: includes/pwpc-functions.php:591
+msgid "12 timer designs, 5 predefined templates and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:601
+msgid "Before and After Image Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:602
+msgid ""
+"Before and After Image Slider is a simple plugin that makes it easy to "
+"highlight the visual differences between two images."
+msgstr ""
+
+#: includes/pwpc-functions.php:605
+msgid ""
+"A very simple module that makes it easy to highlight the visual differences "
+"between two images."
+msgstr ""
+
+#: includes/pwpc-functions.php:606
+msgid "Custom width, After / Before image label and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:614
+msgid "Button with Style"
+msgstr ""
+
+#: includes/pwpc-functions.php:615
+msgid ""
+"Build custom buttons with icon. Perfect for hyperlinks, downloads, "
+"promotions, redirects or create group button."
+msgstr ""
+
+#: includes/pwpc-functions.php:618
+msgid "Build single button or group buttons with icon and hyperlinks."
+msgstr ""
+
+#: includes/pwpc-functions.php:619
+msgid "Predefined color, style and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:628
+#: modules/css-js/includes/admin/class-pwpc-ccj-admin.php:36
+#: modules/css-js/includes/admin/class-pwpc-ccj-admin.php:36
+msgid "Custom CSS and JS"
+msgstr ""
+
+#: includes/pwpc-functions.php:629 includes/pwpc-functions.php:632
+msgid ""
+"Customize site appearance by easily adding custom CSS or JS code without "
+"even having to modify your theme or plugin files."
+msgstr ""
+
+#: includes/pwpc-functions.php:633
+msgid "Add CSS or JS globally."
+msgstr ""
+
+#: includes/pwpc-functions.php:641
+msgid "Extra Info Sidebar"
+msgstr ""
+
+#: includes/pwpc-functions.php:642
+msgid ""
+"This enables toggle button on a website corner. Display your desired "
+"information within it via widget."
+msgstr ""
+
+#: includes/pwpc-functions.php:645
+msgid ""
+"Display toggle button on a website corner with your desired information "
+"within it via widget."
+msgstr ""
+
+#: includes/pwpc-functions.php:646 includes/pwpc-functions.php:673
+msgid "Customize background color, font color and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:654 includes/admin/pwpc-about.php:181
+msgid "Login Customizer"
+msgstr ""
+
+#: includes/pwpc-functions.php:655
+msgid ""
+"A quick and easy way to customize login screen the way you want. Change "
+"login screen color, Upload desired logo and much more."
+msgstr ""
+
+#: includes/pwpc-functions.php:658
+msgid "A quick and easy way to customize login screen the way you want."
+msgstr ""
+
+#: includes/pwpc-functions.php:659
+msgid ""
+"Customize login, register and forgot password form color, form position and "
+"etc."
+msgstr ""
+
+#: includes/pwpc-functions.php:660
+msgid "Customize login screen color, Upload desired logo and much more."
+msgstr ""
+
+#: includes/pwpc-functions.php:668
+#: modules/footer-mega-grid-columns/includes/admin/class-pwpc-fmgc-admin.php:67
+msgid "Footer Mega Grid Columns"
+msgstr ""
+
+#: includes/pwpc-functions.php:669 includes/pwpc-functions.php:672
+msgid ""
+"Register a widget area for your theme and allows you to add and display "
+"widgets in grid view with multiple columns."
+msgstr ""
+
+#: includes/pwpc-functions.php:682 includes/admin/pwpc-about.php:167
+#: modules/google-fonts/includes/admin/class-pwpc-gfpw-admin.php:36
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:59
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/pwpc-functions.php:683
+msgid ""
+"Adds google fonts to any theme without coding and integrates with theme. It "
+"allows you to assign fonts for body, heading, em, a tag etc."
+msgstr ""
+
+#: includes/pwpc-functions.php:686
+msgid ""
+"A module to add google fonts to any theme without coding and integrates with "
+"theme."
+msgstr ""
+
+#: includes/pwpc-functions.php:687
+msgid "It allows you to assign fonts for body, heading, em, a tag or etc tags."
+msgstr ""
+
+#: includes/pwpc-functions.php:695
+#: modules/preloader/includes/admin/class-pwpc-pl-admin.php:36
+msgid "Preloader"
+msgstr ""
+
+#: includes/pwpc-functions.php:696
+msgid ""
+"Preloader is a tiny, customizable plugin that gives your site an animated "
+"loading screen. It comes with predefined spinner, background color and many "
+"more options."
+msgstr ""
+
+#: includes/pwpc-functions.php:699
+msgid "Gives your site an animated loading screen with predefined spinner."
+msgstr ""
+
+#: includes/pwpc-functions.php:700
+msgid "Customize background color, custom spinner image and more..."
+msgstr ""
+
+#: includes/pwpc-functions.php:709
+msgid "JQuery Smooth Scroll & Go To Top"
+msgstr ""
+
+#: includes/pwpc-functions.php:710
+msgid ""
+"JQuery smooth scroll for website and page back to top functionality with "
+"many options."
+msgstr ""
+
+#: includes/pwpc-functions.php:713
+msgid "Page Back to Top functionality."
+msgstr ""
+
+#: includes/pwpc-functions.php:714
+msgid "Page smooth scrolling functionality."
+msgstr ""
+
+#: includes/pwpc-functions.php:724
+msgid "Cookie Consent"
+msgstr ""
+
+#: includes/pwpc-functions.php:725
+msgid ""
+"A simple way to get GDPR Cookie Consent as per EU GDPR/Cookie Law "
+"regulations. Display cookie conesnt message on website."
+msgstr ""
+
+#: includes/pwpc-functions.php:727
+msgid ""
+"A simple way to display GDPR Cookie Consent as per EU GDPR/Cookie Law "
+"regulations."
+msgstr ""
+
+#: includes/pwpc-functions.php:734
+msgid "Security"
+msgstr ""
+
+#: includes/pwpc-functions.php:735
+msgid ""
+"Secure your website from Brute Force Attacks. Protect your login screen, "
+"prevent XML-RPC DDOS attack and hide basic identity of WordPress from hacker."
+msgstr ""
+
+#: includes/pwpc-functions.php:738
+msgid "Prevent Brute Force Attacks."
+msgstr ""
+
+#: includes/pwpc-functions.php:739
+msgid "Prevent XML-RPC DDOS attack."
+msgstr ""
+
+#: includes/pwpc-functions.php:740
+msgid "Hide WP Login screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:741
+msgid "Rename WP Login URL."
+msgstr ""
+
+#: includes/pwpc-functions.php:742
+msgid "Two Factor Authentication for Login Screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:743
+msgid "Hide basic identity of WordPress from hacker."
+msgstr ""
+
+#: includes/pwpc-functions.php:744
+msgid ""
+"Protect ecommerce store like Woo Commerce and Easy Digital Downloads from "
+"Brute Force Attacks."
+msgstr ""
+
+#: includes/pwpc-functions.php:754
+msgid "Social Links"
+msgstr ""
+
+#: includes/pwpc-functions.php:755
+msgid ""
+"Social Links is an easy to use, customizable way to display various social "
+"profiles links with icons."
+msgstr ""
+
+#: includes/pwpc-functions.php:757
+msgid "Social Links Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:759
+msgid "Widget allows you to easily display your social profiles."
+msgstr ""
+
+#: includes/pwpc-functions.php:760
+msgid ""
+"[Premium Version] - Get 15 Designs. Customize background color and Icon "
+"color."
+msgstr ""
+
+#: includes/pwpc-functions.php:769
+msgid "Business Hours"
+msgstr ""
+
+#: includes/pwpc-functions.php:770 includes/pwpc-functions.php:774
+msgid ""
+"The Business Hours widget allows you to post your daily working hours and "
+"show it to your visitors."
+msgstr ""
+
+#: includes/pwpc-functions.php:772
+msgid "Business Hours Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:786
+msgid "Responsive Recent Post Slider / List Style 1"
+msgstr ""
+
+#: includes/pwpc-functions.php:787
+msgid ""
+"Display latest post items in a list or slider view with various options. You "
+"can see 'Latest Post List/Slider 1 - PwPc' widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:794
+msgid "Responsive Recent Post Slider / List Style 2"
+msgstr ""
+
+#: includes/pwpc-functions.php:795
+msgid ""
+"Display latest post items in a list or slider view with various options. You "
+"can see 'Latest Post List/Slider 2 - PwPc' widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:802
+msgid "Responsive Recent Post Slider Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:803
+msgid ""
+"Display latest post items in a slider view with various options. You can see "
+"'Latest Post Slider Widget - PwPc' widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:813
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:86
+msgid "Testimonials Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:814
+msgid ""
+"Display testimonials in a slider view with various options. You can see "
+"'Testimonials Slider - PwPc' widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:823
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:56
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:32
+msgid "Instagram Grid"
+msgstr ""
+
+#: includes/pwpc-functions.php:824
+msgid ""
+"Display Instagram pictures in grid view. You can see 'Instagram Grid - PwPc' "
+"widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:827
+msgid "Configure Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:832
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:57
+msgid "Instagram Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:833
+msgid ""
+"Display Instagram pictures in slider view. You can see 'Instagram Slider - "
+"PwPc' widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:842
+msgid "Logo Showcase Grid"
+msgstr ""
+
+#: includes/pwpc-functions.php:843
+msgid ""
+"Display logo in grid view. You can see 'Logo Showcase Grid - PwPc' widget at "
+"widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:850
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:84
+msgid "Logo Showcase Slider"
+msgstr ""
+
+#: includes/pwpc-functions.php:851
+msgid ""
+"Display logo in slider view. You can see 'Logo Showcase Slider - PwPc' "
+"widget at widget screen."
+msgstr ""
+
+#: includes/pwpc-functions.php:1101
+msgid "Multisite Support"
+msgstr ""
+
+#: includes/pwpc-functions.php:1105
+msgid "Has Shortcode"
+msgstr ""
+
+#: includes/pwpc-functions.php:1109
+msgid "Has Widget"
+msgstr ""
+
+#: includes/pwpc-functions.php:1113
+msgid "Has Visual Composer Support"
+msgstr ""
+
+#: includes/pwpc-functions.php:1117
+msgid "100% Multilanguage"
+msgstr ""
+
+#: includes/pwpc-functions.php:1121
+msgid "Fully Responsive"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:40
+#: includes/admin/class-pwpc-admin-help.php:42
+msgid "Help &amp; Support"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:44
+#, php-format
+msgid ""
+"Should you need help understanding, using, or extending PowerPack, <a "
+"href=\"%s\" target=\"_blank\">please read our documentation</a>. You will "
+"find all kinds of resources including snippets, tutorials and much more."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:47
+msgid "Before asking for help we recommend you to check plugin documentation."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:48
+#: includes/admin/class-pwpc-admin-help.php:63
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:48
+#: includes/admin/class-pwpc-admin-help.php:62
+msgid "Newbie? Take a Tour"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:53
+#: includes/admin/class-pwpc-admin-help.php:55
+msgid "Found a bug?"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:56
+msgid ""
+"If you find a bug within PowerPack you can create a support at WordPress "
+"plugin support forum."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:60
+msgid "For more information:"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-help.php:61
+msgid "About PowerPack"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:49
+msgid "Welcome to PowerPack"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:50
+msgid ""
+"You are about to use most powerful plugin for WordPress ever - With most "
+"popular modules for frontend and backend by WP Online Support."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:63
+msgid "Module Search"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:64
+msgid ""
+"You can easily search your favourite modules by clicking the search icon."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:65
+msgid "Start typing module name and it will pick module within current tab."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:78
+msgid "Modules Categories - Active Modules"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:79
+msgid ""
+"These are the various categories of modules. e.g Site modules, Widgets, "
+"Styling modules and etc."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:80
+msgid ""
+"This is the Active module category. Your activated modules will be displayed "
+"over here."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:81
+msgid ""
+"So you do not have to find active modules from each tab. You can easily "
+"manipulate over here."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:94
+msgid "Site Modules"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:95
+msgid "This is the site modules category."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:96
+msgid ""
+"Here you can see various modules like FAQ, Logoshowcase, Team Showcase or "
+"etc."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:97
+msgid "You can find with search functionality."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:110
+msgid "Site Module"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:111
+msgid "This one of the site module. e.g FAQ"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:112
+msgid ""
+"Module holds its respective name and description so you will be cleared from "
+"that."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:113
+msgid ""
+"You can find more information about it by hovering the mouse on info button."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:126
+msgid "Enable Module!"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:127
+msgid "This is enable / disabled switch of module."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:128
+msgid "Once you click, It will be turned to green means a sign of activation."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:129
+msgid ""
+"Once you click module do not forget to save from top right 'Save Changes' "
+"button."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:130
+msgid ""
+"Once module is enabled, it's respective menu will be appeared at admin side. "
+"e.g If you enable FAQ then FAQ - PwPc menu will be appeared."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:143
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:144
+msgid ""
+"When you enable / disable module, hit the \"Save Changes\" button to make it "
+"live."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:157
+#: includes/admin/pwpc-dashboard.php:46
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:158
+msgid "Deactive all modules at just one click."
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:179
+msgid "Dismiss"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:180
+#: modules/team-showcase/includes/shortcode/pwpc-team-grid.php:137
+msgid "Previous"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin-pointers.php:181
+#: modules/team-showcase/includes/shortcode/pwpc-team-grid.php:138
+msgid "Next"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:47
+msgid "PowerPack Lite - By WP Online Support"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:58 includes/admin/pwpc-about.php:15
+msgid "About"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:61
+msgid "Upgrade to PRO - PowerPack"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:61
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:105
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%s\" target=\"_blank\">PowerPack Lite</a>. "
+"Please <a href=\"%s\" target=\"_blank\">rate us</a>. A huge thanks in "
+"advance!"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:170
+msgid "Category Shortcode"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:223 includes/admin/pwpc-dashboard.php:61
+msgid "PowerPack"
+msgstr ""
+
+#: includes/admin/class-pwpc-admin.php:239
+msgid "Configure Plugin"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:16
+msgid "What's New"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:49
+msgid "Welcome to"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:51
+#, php-format
+msgid ""
+"Congratulations! You are about to use most powerful plugin for %s ever - "
+"With most popular modules for frontend and backend by %s."
+msgstr ""
+
+#: includes/admin/pwpc-about.php:52
+msgid "Version"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:78
+msgid "A Plugin Without Edge"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:79
+msgid ""
+"Everything you need for website from header to footer and take your website "
+"to the next level!"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:84
+msgid ""
+"The largest Module bundle for WordPress with 20+ addons with Predefined "
+"Templates. All addons are totally unique, Developed with passion, Use "
+"individually to fit your website."
+msgstr ""
+
+#: includes/admin/pwpc-about.php:86
+msgid ""
+"Our module library is growing every week and you will get updates of all."
+msgstr ""
+
+#: includes/admin/pwpc-about.php:91
+msgid "Exciting Modules - Filled With Power"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:118
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:82
+msgid "Post Slider"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:132
+#: modules/portfolio/includes/pwpc-pap-post-types.php:23
+msgid "Portfolio"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:146
+msgid "Timeline"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:160
+msgid "Ticker Ultimate"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:174
+msgid "Buttons"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:188
+msgid "And More"
+msgstr ""
+
+#: includes/admin/pwpc-about.php:207
+msgid "Thank you for choosing PowerPack"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:26
+msgid "PowerPack Dashboard"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:32
+msgid "All settings reset successfully."
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:39
+#: modules/portfolio/includes/admin/class-pwpc-pap-admin.php:212
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:19
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:21
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-plugin-settings.php:15
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:16
+msgid "Your changes saved successfully."
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:57 includes/admin/pwpc-dashboard.php:116
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:56
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:93
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:163
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:54
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:167
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:83
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:62
+msgid "Search"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:64
+msgid "Search for a module"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:81
+#: includes/admin/settings/register-settings.php:141
+#: includes/admin/settings/register-settings.php:199
+msgid "No Title"
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:110
+msgid "Sorry, something happend wrong."
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:115
+msgid "Hey, Sparky some settings has been changed. Do not forget to save."
+msgstr ""
+
+#: includes/admin/pwpc-dashboard.php:116
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:55
+msgid "Close"
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:27
+msgid "Need PRO Support?"
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:30
+msgid "Hire our experts for any WordPress task."
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:31
+msgid "Hire Us"
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:42
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:45
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/pwpc-how-it-work.php:45
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "PowerPack - Features"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:165
+msgid "Select Category"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:179
+msgid "No Module is Enabled"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:180
+msgid "No Module is Disabled"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:183
+msgid "Select All"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:184
+msgid "Enabled"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:185
+msgid "Disabled"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:200
+msgid "Premium Only"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:289
+msgid ""
+"Sorry, nothing matched to your search criteria. Please refine you search or "
+"search category."
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:319
+msgid "You have no module active!"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:320
+msgid "Activate and Enjoy"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:325
+msgid "Add Modules"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:329
+msgid "Add Widgets"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:333
+msgid "Site Appearance"
+msgstr ""
+
+#: includes/admin/settings/register-settings.php:338
+msgid "Start a Tour"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:21
+msgid "Simple Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:22
+msgid "Group Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:36
+msgid "Square"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:37
+msgid "Radius"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:38
+msgid "Round"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:51
+msgid "Black"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:52
+msgid "White"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:53
+msgid "Light Grey"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:54
+msgid "Grey"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:55
+msgid "Azure"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:56
+msgid "Moderate Green"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:57
+msgid "Soft Red"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:58
+msgid "Green"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:59
+msgid "Bright Yellow"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:60
+#: modules/buttons/includes/pwpc-bws-functions.php:68
+msgid "Cyan"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:61
+msgid "Orange"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:62
+msgid "Moderate Violet"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:63
+msgid "Dark Magenta"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:64
+msgid "Dark Grayish Orange"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:65
+msgid "Moderate Blue"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:66
+msgid "Blue"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:67
+msgid "Red"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:69
+msgid "Magenta"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:70
+msgid "Lime"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:71
+msgid "Pink"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:72
+msgid "Vivid Yellow"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:73
+msgid "Lime Green"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:74
+msgid "Yellow"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:87
+msgid "Plane"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:88
+msgid "Border"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:89
+msgid "Shadow"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:102
+msgid "Small"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:103
+msgid "Medium"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:104
+msgid "Large"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-functions.php:105
+msgid "Expand"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:22
+#: modules/buttons/includes/pwpc-bws-post-types.php:23
+msgid "Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:24
+msgid "Add Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:25
+msgid "Add New Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:26
+msgid "Edit Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:27
+msgid "New Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:28
+msgid "View Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:29
+msgid "Search Button"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:30
+msgid "All Buttons"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:31
+msgid "No Button found"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:32
+msgid "No Button found in trash"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:34
+msgid "Button - PwPc"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:68
+#: modules/buttons/includes/pwpc-bws-post-types.php:71
+msgid "Button updated."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:69
+#: modules/faq/includes/pwpc-faq-post-types.php:118
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:112
+#: modules/portfolio/includes/pwpc-pap-post-types.php:144
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:121
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:120
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:110
+#: modules/timeline/includes/pwpc-hs-post-types.php:121
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:114
+msgid "Custom field updated."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:70
+#: modules/faq/includes/pwpc-faq-post-types.php:119
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:113
+#: modules/portfolio/includes/pwpc-pap-post-types.php:145
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:122
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:121
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:111
+#: modules/timeline/includes/pwpc-hs-post-types.php:122
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:115
+msgid "Custom field deleted."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:72
+#, php-format
+msgid "Button restored to revision from %s"
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:73
+msgid "Button published."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:74
+msgid "Button saved."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:75
+msgid "Button submitted."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:76
+#, php-format
+msgid "Button scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: modules/buttons/includes/pwpc-bws-post-types.php:78
+msgid "Button draft updated."
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:22
+msgid "FAQs"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:24
+msgid "Add FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:25
+msgid "Add New FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:26
+msgid "Edit FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:27
+msgid "New FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:28
+msgid "All FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:29
+msgid "View FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:30
+msgid "Search FAQ"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:31
+msgid "No FAQ found"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:32
+msgid "No FAQ found in Trash"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:34
+msgid "FAQ - PwPc"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:72
+#: modules/faq/includes/pwpc-faq-post-types.php:73
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:79
+#: modules/portfolio/includes/pwpc-pap-post-types.php:73
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:75
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:76
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:85
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:78
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:79
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:88
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:67
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:68
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:77
+#: modules/timeline/includes/pwpc-hs-post-types.php:79
+#: modules/timeline/includes/pwpc-hs-post-types.php:80
+#: modules/timeline/includes/pwpc-hs-post-types.php:89
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:71
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:72
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:81
+msgid "Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:74
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:71
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:77
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:80
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:69
+#: modules/timeline/includes/pwpc-hs-post-types.php:81
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:73
+msgid "Search Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:75
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:72
+#: modules/portfolio/includes/pwpc-pap-post-types.php:75
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:81
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:70
+#: modules/timeline/includes/pwpc-hs-post-types.php:82
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:74
+msgid "All Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:76
+#: modules/faq/includes/pwpc-faq-post-types.php:77
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:73
+#: modules/portfolio/includes/pwpc-pap-post-types.php:76
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:79
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:80
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:82
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:83
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:71
+#: modules/timeline/includes/pwpc-hs-post-types.php:83
+#: modules/timeline/includes/pwpc-hs-post-types.php:84
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:75
+msgid "Parent Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:78
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:75
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:81
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:84
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:73
+#: modules/timeline/includes/pwpc-hs-post-types.php:85
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:77
+msgid "Edit Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:79
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:76
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:82
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:85
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:74
+#: modules/timeline/includes/pwpc-hs-post-types.php:86
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:78
+msgid "Update Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:80
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:77
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:83
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:86
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:75
+#: modules/timeline/includes/pwpc-hs-post-types.php:87
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:79
+msgid "Add New Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:81
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:78
+#: modules/portfolio/includes/pwpc-pap-post-types.php:81
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:84
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:87
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:76
+#: modules/timeline/includes/pwpc-hs-post-types.php:88
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:80
+msgid "New Category Name"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:82
+msgid "FAQ Category"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:117
+#, php-format
+msgid "FAQ updated. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:120
+msgid "FAQ updated."
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:121
+#, php-format
+msgid "FAQ restored to revision from %s"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:122
+#, php-format
+msgid "FAQ published. <a href=\"%s\">View FAQ</a>"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:123
+msgid "FAQ saved."
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:124
+#, php-format
+msgid "FAQ submitted. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:125
+#, php-format
+msgid ""
+"FAQ scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">"
+"Preview FAQ</a>"
+msgstr ""
+
+#: modules/faq/includes/pwpc-faq-post-types.php:127
+#, php-format
+msgid "FAQ draft updated. <a target=\"_blank\" href=\"%s\">Preview FAQ</a>"
+msgstr ""
+
+#: modules/google-fonts/includes/class-pwpc-gfpw-script.php:67
+msgid "Sorry, You can not delete this"
+msgstr ""
+
+#: modules/google-fonts/includes/class-pwpc-gfpw-script.php:68
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:77
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:129
+msgid "-- Select Font --"
+msgstr ""
+
+#: modules/google-fonts/includes/class-pwpc-gfpw-script.php:70
+msgid ""
+"Sorry, Only five google fonts are allowed in Free version. Upgrade to Pro "
+"for unlimited fonts."
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:57
+msgid "Body Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:58
+msgid "H1 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:59
+msgid "H2 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:60
+msgid "H3 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:61
+msgid "H4 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:62
+msgid "H5 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:63
+msgid "H6 Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:64
+msgid "P Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:65
+msgid "Hyperlink Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:66
+msgid "Blockquote Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:67
+msgid "Pre Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:68
+msgid "Code Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:69
+msgid "Button Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:70
+msgid "Input Types Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:71
+msgid "Ordered List Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:72
+msgid "Unordered List Font"
+msgstr ""
+
+#: modules/google-fonts/includes/pwpc-gfpw-functions.php:73
+msgid "Label Font"
+msgstr ""
+
+#: modules/instagram/includes/class-pwpc-iscwp-public.php:40
+#: modules/instagram/includes/admin/class-pwpc-iscwp-admin.php:65
+#: modules/portfolio/includes/admin/class-pwpc-pap-admin.php:154
+#: modules/portfolio/includes/admin/class-pwpc-pap-admin.php:190
+msgid "Sorry, Something happened wrong."
+msgstr ""
+
+#: modules/instagram/includes/class-pwpc-iscwp-public.php:101
+msgid "Success"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:24
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:24
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:24
+msgid "Add New"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:25
+msgid "Add New Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:26
+msgid "Edit Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:27
+msgid "New Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:28
+msgid "All Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:29
+msgid "View Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:30
+msgid "Search Logo"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:31
+msgid "No Logo Showcase found"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:32
+msgid "No Logo Showcase found in Trash"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:34
+msgid "Logo Showcase - PwPc"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:35
+msgid "Logo Image"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:36
+msgid "Set Logo Image"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:37
+msgid "Remove logo image"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:38
+msgid "Use as logo image"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:69
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:70
+msgid "Logo Category"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:74
+#: modules/portfolio/includes/pwpc-pap-post-types.php:77
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:72
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:76
+msgid "Parent Category:"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:111
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:114
+msgid "Logo Showcase updated."
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:115
+#, php-format
+msgid "Logo Showcase restored to revision from %s"
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:116
+msgid "Logo Showcase published."
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:117
+msgid "Logo Showcase saved."
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:118
+msgid "Logo Showcase submitted."
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:119
+#, php-format
+msgid "Logo Showcase scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: modules/logo-showcase/includes/pwpc-ls-post-types.php:121
+msgid "Logo Showcase draft updated."
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:22
+msgid "Portfolios & Projects"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:24
+msgid "All Portfolios"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:25
+msgid "Add Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:26
+msgid "Add New Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:27
+msgid "Edit Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:28
+msgid "New Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:29
+msgid "View Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:30
+msgid "Search Portfolio"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:31
+msgid "No Portfolio found"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:32
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:33
+msgid "Portfolio - PwPc"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:34
+msgid "Portfolio Cover Image"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:35
+msgid "Set Portfolio Cover Image"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:36
+msgid "Remove Portfolio Cover Image"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:37
+msgid "Use as Portfolio Cover Image"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:72
+msgid "Portfolio Categories"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:74
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:78
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:79
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:80
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:82
+#: modules/portfolio/templates/popup/inline-portfolio.php:74
+msgid "Categories"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:99
+msgid "Portfolio Skills"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:100
+msgid "Skill"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:101
+msgid "Search Portfolio Skills"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:102
+msgid "Popular Skills"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:103
+msgid "All Skills"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:106
+msgid "Edit Portfolio Skill"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:107
+msgid "Update Portfolio Skill"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:108
+msgid "Add New Portfolio Skill"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:109
+msgid "New Skill Name"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:110
+msgid "Separate skills with commas"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:111
+msgid "Add or remove portfolios"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:112
+msgid "Choose from the most used portfolios"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:113
+#: modules/portfolio/templates/popup/inline-portfolio.php:83
+msgid "Skills"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:143
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:146
+msgid "Portfolio updated."
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:147
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:148
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:149
+msgid "Portfolio saved."
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:150
+#, php-format
+msgid ""
+"Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:151
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+
+#: modules/portfolio/includes/pwpc-pap-post-types.php:153
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Portfolio</a>"
+msgstr ""
+
+#: modules/smooth-scroll/includes/class-pwpc-ss-public.php:34
+msgid "Back to top"
+msgstr ""
+
+#: modules/social-link-widget/includes/class-pwpc-slw-script.php:56
+msgid "Sorry, One entry should be there."
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:21
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:23
+msgid "Behance"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:25
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:27
+msgid "Delicious"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:29
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:31
+msgid "Deviantart"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:33
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:35
+msgid "Digg"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:37
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:39
+msgid "Dribbble"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:41
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:43
+#: modules/team-showcase/includes/pwpc-ts-functions.php:43
+msgid "Email"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:45
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:47
+#: modules/team-showcase/includes/pwpc-ts-functions.php:23
+msgid "Facebook"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:49
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:51
+msgid "Flickr"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:53
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:55
+msgid "Foursquare"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:57
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:59
+msgid "Github"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:61
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:63
+msgid "Google"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:65
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:67
+msgid "Google Plus"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:69
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:71
+msgid "Html5"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:77
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:79
+msgid "JsFiddle"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:81
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:83
+#: modules/team-showcase/includes/pwpc-ts-functions.php:33
+msgid "Linkedin"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:85
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:87
+msgid "Paypal "
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:89
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:91
+msgid "Pinterest"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:93
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:95
+msgid "Quora"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:97
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:99
+msgid "Reddit"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:101
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:103
+msgid "Rss"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:105
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:107
+msgid "Skype"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:109
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:111
+msgid "Slack"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:113
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:115
+msgid "Sound Cloud"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:117
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:119
+msgid "Spotify"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:121
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:123
+msgid "Stack Overflow"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:125
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:127
+msgid "Steam"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:129
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:131
+msgid "StumbleUpon"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:133
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:135
+msgid "Tumblr"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:137
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:139
+#: modules/team-showcase/includes/pwpc-ts-functions.php:38
+msgid "Twitter"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:141
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:143
+msgid "Vimeo"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:145
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:147
+msgid "WhatsApp"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:149
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:151
+msgid "Windows"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:153
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:155
+msgid "Wordpress"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:157
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:159
+msgid "Yahoo"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:161
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:163
+msgid "Yelp"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:165
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:167
+msgid "Youtube"
+msgstr ""
+
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:169
+#: modules/social-link-widget/includes/pwpc-slw-functions.php:171
+msgid "Xing"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:24
+msgid "Enter facebook link."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:28
+msgid "Google+"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:29
+msgid "Enter google plus link."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:34
+msgid "Enter Linkedin link."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:39
+msgid "Enter Twitter link."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:44
+msgid "Enter email address."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:48
+msgid "Website"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-functions.php:49
+msgid "Enter website link."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:24
+msgid "All Team Members"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:25
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:26
+msgid "Add New Member"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:27
+msgid "Edit Member"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:28
+msgid "New Member"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:29
+msgid "View Member"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:30
+msgid "Search Members"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:31
+msgid "No Member found"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:32
+msgid "No Members found in Trash"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:33
+msgid "Team Showcase - PwPc"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:34
+#: modules/team-showcase/includes/admin/class-pwpc-ts-admin.php:111
+msgid "Team Member Image"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:35
+msgid "Set Team Member Image"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:36
+msgid "Remove Team Member Image"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:37
+msgid "Use as Team Member Image"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:78
+msgid "All Categories"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:120
+#, php-format
+msgid "Team Member updated. <a href=\"%s\">View Team Member</a>"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:123
+msgid "Team Member updated."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:124
+#, php-format
+msgid "Team Member restored to revision from %s"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:125
+#, php-format
+msgid "Team Member published. <a href=\"%s\">View Team Member</a>"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:126
+msgid "Team Member saved."
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:127
+#, php-format
+msgid ""
+"Team Member submitted. <a target=\"_blank\" href=\"%s\">Preview Team "
+"Member</a>"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:128
+#, php-format
+msgid ""
+"Team Member scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Team Member</a>"
+msgstr ""
+
+#: modules/team-showcase/includes/pwpc-ts-post-types.php:130
+#, php-format
+msgid ""
+"Team Member draft updated. <a target=\"_blank\" href=\"%s\">Preview Team "
+"Member</a>"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:25
+msgid "Add New Testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:26
+msgid "Edit Testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:27
+msgid "New Testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:28
+msgid "All Testimonials"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:29
+msgid "View Testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:30
+msgid "Search Testimonials"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:31
+msgid "No Testimonials Found"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:32
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:34
+msgid "Testimonial Image"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:35
+msgid "Set testimonial image"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:36
+msgid "Remove testimonial image"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:37
+msgid "Use as testimonial image"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:38
+msgid "Insert into testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:39
+msgid "Uploaded to this testimonial"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:40
+msgid "Testimonials - PwPc"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:119
+#, php-format
+msgid "Testimonial updated. <a href=\"%s\">View Testimonial</a>"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:122
+msgid "Testimonial updated."
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:123
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:124
+#, php-format
+msgid "Testimonial published. <a href=\"%s\">View Testimonial</a>"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:125
+msgid "Testimonial saved."
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:126
+#, php-format
+msgid ""
+"Testimonial submitted. <a target=\"_blank\" href=\"%s\">Preview "
+"Testimonial</a>"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:127
+#, php-format
+msgid ""
+"Testimonial scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Testimonial</a>"
+msgstr ""
+
+#: modules/testimonials/includes/pwpc-tmw-post-types.php:129
+#, php-format
+msgid ""
+"Testimonial draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Testimonial</a>"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:23
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:24
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:35
+msgid "Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:25
+msgid "All Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:26
+msgid "Add Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:27
+msgid "Add New Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:28
+msgid "Edit Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:29
+msgid "New Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:30
+msgid "View Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:31
+msgid "Search Ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:32
+msgid "No Tickers found"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:33
+msgid "No Tickers found in Trash"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:109
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:112
+msgid "Ticker updated."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:113
+#, php-format
+msgid "Ticker restored to revision from %s"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:114
+msgid "Ticker published."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:115
+msgid "Ticker saved."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:116
+msgid "Ticker submitted."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:117
+#, php-format
+msgid "Ticker scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/pwpc-tu-post-types.php:119
+msgid "Ticker draft updated."
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:23
+#: modules/timeline/includes/pwpc-hs-post-types.php:24
+msgid "Timeline Slider"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:25
+msgid "All Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:26
+msgid "Add Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:27
+msgid "Add New Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:28
+msgid "Edit Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:29
+msgid "New Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:30
+msgid "View Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:31
+msgid "Search Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:32
+msgid "No Items found"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:33
+msgid "No Items found in Trash"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:35
+msgid "Timeline Cover Image"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:36
+msgid "Set Timeline Cover Image"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:37
+msgid "Remove Timeline Cover Image"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:38
+msgid "Use as Timeline Cover Image"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:39
+msgid "Insert into Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:40
+msgid "Uploaded to this Timeline"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:41
+msgid "Timeline - PwPc"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:120
+#, php-format
+msgid "Timeline updated. <a href=\"%s\">View Timeline</a>"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:123
+msgid "Timeline updated."
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:124
+#, php-format
+msgid "Timeline restored to revision from %s"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:125
+#, php-format
+msgid "Timeline published. <a href=\"%s\">View Timeline</a>"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:126
+msgid "Timeline saved."
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:127
+#, php-format
+msgid ""
+"Timeline submitted. <a target=\"_blank\" href=\"%s\">Preview Timeline</a>"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:128
+#, php-format
+msgid ""
+"Timeline scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Timeline</a>"
+msgstr ""
+
+#: modules/timeline/includes/pwpc-hs-post-types.php:130
+#, php-format
+msgid ""
+"Timeline draft updated. <a target=\"_blank\" href=\"%s\">Preview Timeline</a>"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:25
+msgid "Add New Video"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:26
+msgid "Edit Video"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:27
+msgid "New Video"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:28
+msgid "All Video"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:29
+msgid "View Video Gallery"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:30
+msgid "Search Video"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:31
+msgid "No Video Gallery found"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:32
+msgid "No Video Gallery found in Trash"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:34
+msgid "Video Poster Image"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:35
+msgid "Set Video Poster Image"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:36
+msgid "Remove Video Poster Image"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:37
+msgid "Use as Video Poster Image"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:113
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:116
+msgid "Video updated."
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:117
+#, php-format
+msgid "Video restored to revision from %s"
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:118
+msgid "Video published."
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:119
+msgid "Video saved."
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:120
+msgid "Video submitted."
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:121
+#, php-format
+msgid "Video scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: modules/video-gallery/includes/pwpc-vgp-post-types.php:123
+msgid "Video draft updated."
+msgstr ""
+
+#: modules/buttons/includes/admin/class-pwpc-bws-admin.php:45
+msgid "Buttons With Style Settings - PwPc"
+msgstr ""
+
+#: modules/buttons/includes/admin/class-pwpc-bws-admin.php:110
+msgid "Shortcode"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:23
+msgid "How it works"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:23
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:24
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:23
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:23
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:23
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:23
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:23
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:23
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:23
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:23
+#: modules/css-js/includes/admin/settings/pwpc-ccj-settings.php:15
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-settings.php:15
+#: modules/preloader/includes/admin/settings/pwpc-pl-settings.php:15
+msgid "How It Works"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:36
+msgid "How It Works - Buttons With Style"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:50
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:50
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:28
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:24
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:50
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:47
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:24
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:49
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:49
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:49
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:47
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:47
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:47
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:58
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:32
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:58
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:36
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:32
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:58
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:55
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:32
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:57
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:57
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:57
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:55
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:55
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:55
+msgid "Getting Started"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:62
+msgid "Step-1. Go to \"Button – PwPc > Add Button\"."
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:63
+msgid ""
+"Step-2. Add Title and do necessary settings like button color, button font, "
+"button link and etc."
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:64
+msgid "Step-3. Add button shortcode to any Page or Post."
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:71
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:72
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:44
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:72
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:70
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:75
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:69
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:69
+msgid "How Shortcode Works"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:73
+msgid ""
+"Add below shortcode with valid id in any page or post. You can find button "
+"shortcode at Button listing page."
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:78
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:84
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:53
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:81
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:68
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:79
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:70
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:82
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:68
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:76
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:76
+msgid "All Shortcodes"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:81
+msgid "Display Button"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:99
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:55
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:105
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:68
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:74
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:102
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:87
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:55
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:100
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:91
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:103
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:87
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:95
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:95
+msgid "Need Support?"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:102
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:58
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:108
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:71
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:77
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:105
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:90
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:58
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:103
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:94
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:106
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:90
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:98
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:98
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:103
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:59
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:109
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:72
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:78
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:106
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:91
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:59
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:104
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:95
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:107
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:91
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:99
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:99
+msgid "Documentation"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:113
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:69
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:120
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:82
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:88
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:101
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:69
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:114
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:106
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:117
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:101
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:109
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:109
+msgid "Premium Features - Upgrade to PRO"
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:120
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:76
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:136
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:91
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:104
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:138
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:119
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:76
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:131
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:125
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:133
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:115
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:125
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:126
+msgid "Go Premium "
+msgstr ""
+
+#: modules/buttons/includes/admin/pwpc-bws-how-it-work.php:121
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:77
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:137
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:92
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:105
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:139
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:120
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:77
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:132
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:126
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:134
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:116
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:126
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:127
+msgid "View PRO Demo "
+msgstr ""
+
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:36
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:36
+msgid "This module is as easy as 123!!!"
+msgstr ""
+
+#: modules/css-js/includes/admin/pwpc-ccj-how-it-work.php:37
+msgid "Just go to 'Plugin Settings' and add your desired CSS and JS."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:23
+msgid "How it works - FAQ"
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:36
+msgid "How It Works - FAQ"
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:62
+msgid "Step-1. Go to \"FAQ PwPc > Add FAQ\"."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:63
+msgid "Step-2. Add Title, Description and featured image."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:64
+msgid ""
+"Step-3. Add FAQ shortcode to Page or Post and display with your desired "
+"design."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:65
+msgid ""
+"You can create categories under \"FAQ PwPc > FAQ Category\", assign FAQ post "
+"to respective categories and display FAQ category wise with category "
+"parameter."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:76
+msgid "Step-1. Create a page like FAQ OR add the shortcode in any page."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:77
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: modules/faq/includes/admin/pwpc-faq-how-it-work.php:87
+msgid "Display FAQ in Page"
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/class-pwpc-fmgc-admin.php:36
+msgid "Footer Mega Grid Columns - PwPc"
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/class-pwpc-fmgc-admin.php:36
+msgid "Footer Mega Grid"
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/class-pwpc-fmgc-admin.php:69
+msgid ""
+"Footer Mega Grid Columns - Register a widget area for your theme and allow "
+"you to add and display widgets in your desired grid view."
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:15
+msgid "Footer Grid Columns"
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:39
+msgid ""
+"This plugin register a widget area for your theme and allows you to add and "
+"display widgets in your desired place."
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:40
+msgid ""
+"This plugin create a \"Footer Mega Grid Columns - PwPc\" menu tab in "
+"WordPress menu and sidebar widget area \"Footer Mega Grid Columns - PwPc\" "
+"in Appearance > Widgets."
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:41
+msgid ""
+"Go to \"Appearance > Widgets\", Add any type of widgets in Footer Mega Grid "
+"Columns - PwPc Sidebar."
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:47
+msgid "How Plugin Works"
+msgstr ""
+
+#: modules/footer-mega-grid-columns/includes/admin/pwpc-fmgc-how-it-work.php:50
+msgid "Paste below code in footer.php file of your active wordpress theme."
+msgstr ""
+
+#: modules/google-fonts/includes/admin/class-pwpc-gfpw-admin.php:36
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:15
+msgid "Google Fonts Settings"
+msgstr ""
+
+#: modules/instagram/includes/admin/class-pwpc-iscwp-admin.php:39
+msgid "Instagram Feed"
+msgstr ""
+
+#: modules/instagram/includes/admin/class-pwpc-iscwp-admin.php:80
+#: modules/instagram/includes/admin/class-pwpc-iscwp-admin.php:115
+msgid "Cache Cleared"
+msgstr ""
+
+#: modules/instagram/includes/admin/class-pwpc-iscwp-admin.php:117
+msgid "Sorry, No cache data found"
+msgstr ""
+
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:36
+msgid "This plugin is as easy as 123!!!"
+msgstr ""
+
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:37
+msgid ""
+"Just paste below shortcode in any post or page and add your instagram "
+"username to shortcode."
+msgstr ""
+
+#: modules/instagram/includes/admin/pwpc-iscwp-how-it-work.php:47
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:75
+msgid "Create a page or post and put below shortcode as per your need."
+msgstr ""
+
+#: modules/instagram/includes/shortcode/pwpc-iscwp-grid.php:33
+#: modules/instagram/includes/shortcode/pwpc-iscwp-slider.php:39
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:39
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:64
+msgid "View On Instagram"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:31
+msgid "Display Instagram pictures in grid view."
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:35
+msgid "Instagram Photos"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:91
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:96
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:34
+msgid "Title"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:97
+msgid "Username"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:99
+msgid "Enter instagram username. e.g instagram"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:104
+msgid "Grid"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:110
+msgid "Number of Photos"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:116
+msgid "Design Offset"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:118
+msgid "Enter offset value. The space around the image."
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:123
+msgid "Gallery Height"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:129
+msgid "Instagram Redirect Link Text"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:136
+msgid "Popup"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:137
+msgid "Check this box to enable popup."
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:143
+msgid "Popup Gallery"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:144
+msgid "Check this box to enable Prev/Next gallery mode for popup."
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:150
+msgid "Show Image Caption"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:156
+msgid "Show Likes Count"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:162
+msgid "Show Comments Count"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:168
+msgid "Image Fit"
+msgstr ""
+
+#: modules/instagram/includes/widgets/class-pwpc-instagram-grid-widget.php:169
+msgid "Check this box to fill image in a whole div."
+msgstr ""
+
+#: modules/instagram/templates/popup/design-1.php:17
+msgid "Profile Picture"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/class-pwpc-ls-admin.php:45
+msgid "Logo Showcase Settings - PwPc"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/class-pwpc-ls-admin.php:93
+#: modules/testimonials/includes/admin/pwpc-tmw-class-admin.php:98
+msgid "Image"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:23
+msgid "How it works - Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:36
+msgid "How It Works - Logo Showcase"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:62
+msgid "Step-1. Go to \"Logo Showcase > Add New\"."
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:63
+msgid "Step-2. Add Logo title, logo image and etc."
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:64
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:67
+msgid ""
+"Step-3. Add relevant shortcode to Page or Post and display with your desired "
+"design."
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:66
+msgid ""
+"You can create categories under \"Logo Showcase - PwPc > Category\", assign "
+"logo showcase post to respective categories and display Logo Showcase "
+"category wise with category parameter."
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:85
+msgid "Logo Showcase Slider with Center Mode effect"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/pwpc-ls-how-it-work.php:116
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: modules/portfolio/includes/admin/class-pwpc-pap-admin.php:48
+msgid "Portfolio and Projects Settings - PwPc"
+msgstr ""
+
+#: modules/portfolio/includes/admin/class-pwpc-pap-admin.php:170
+msgid "Attachment Found."
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:23
+msgid "How it works - PwPc Portfolio and Projects"
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:35
+msgid "How It Works - Portfolio and Projects"
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:59
+msgid ""
+"Step-1: This plugin creates Portfolio pwpc tab in WordPress menu section"
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:60
+msgid ""
+"Step-2: Go to Projects pwpc add new portfoilo add portfoliio images, project "
+"link, portfolio banner and choose your slider setting\""
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:61
+msgid ""
+"Step-3: Now, paste below shortcode in any post or page and your profolio "
+"listing is ready !!!"
+msgstr ""
+
+#: modules/portfolio/includes/admin/pwpc-pap-how-it-work.php:71
+msgid "Portfolio Grid"
+msgstr ""
+
+#: modules/portfolio/templates/popup/inline-portfolio.php:92
+#: modules/testimonials/includes/admin/metabox/pwpc-tmw-testimonial-metabox-html.php:54
+msgid "URL"
+msgstr ""
+
+#: modules/portfolio/templates/popup/inline-portfolio.php:94
+msgid "View Project"
+msgstr ""
+
+#: modules/preloader/includes/admin/class-pwpc-pl-admin.php:36
+msgid "Preloader Settings"
+msgstr ""
+
+#: modules/preloader/includes/admin/pwpc-pl-how-it-work.php:37
+msgid ""
+"Just go to 'Plugin Settings', enable it and do relevant settings. That's it."
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:23
+msgid "Recent Post Slider"
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:36
+msgid "How It Works - Recent Post Slider"
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:61
+msgid ""
+"Responsive Recent Post Slider is a responsive plugin to display posts in a "
+"beautiful slideshow."
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:62
+msgid ""
+"Plugin takes post from WordPress default post section and display in a "
+"slider and carousel view."
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:64
+msgid "This plugin contains two types of shortcodes."
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:73
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:77
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:71
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:71
+msgid "Create a page or post and add below shortcodes in that."
+msgstr ""
+
+#: modules/recent-post-slider/includes/admin/pwpc-rps-how-it-work.php:83
+msgid "Post Carousel Slider"
+msgstr ""
+
+#: modules/recent-post-slider/includes/shortcode/pwpc-recent-post-slider.php:50
+#: modules/recent-post-slider/includes/shortcode/pwpc-rps-post-carousel.php:54
+#: modules/timeline/includes/shortcode/pwpc-hs-slider.php:51
+msgid "Read More"
+msgstr ""
+
+#: modules/recent-post-slider/templates/carousel/design-1.php:18
+#: modules/recent-post-slider/templates/slider/design-1.php:17
+msgid "By"
+msgstr ""
+
+#: modules/recent-post-slider/templates/slider/design-1.php:41
+msgid "Post Image"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/class-pwpc-ss-admin.php:36
+msgid "Smooth Scroll - PwPc"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/class-pwpc-ss-admin.php:36
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:38
+msgid "Display social links with icons."
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:39
+msgid "Social Icons - PwPc"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:43
+msgid "Connect With Us"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:102
+msgid "Sub Title"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:106
+msgid "Social Icon Settings"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:121
+msgid "Social Icons"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:134
+msgid "Add Row"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:135
+msgid "Delete Row"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:140
+msgid "Link"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:142
+msgid "Social Link"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:156
+msgid "Link Target"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:158
+msgid "Open in Same Window"
+msgstr ""
+
+#: modules/social-link-widget/includes/widgets/pwpc-social-link-widget.php:159
+msgid "Open in New Window"
+msgstr ""
+
+#: modules/team-showcase/includes/admin/class-pwpc-ts-admin.php:43
+msgid "Team Member Details - PwPc"
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:23
+msgid "How it works - PwPc Team Showcase"
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:36
+msgid "How It Works - Team Showcase"
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:61
+msgid ""
+"Step-1: This plugin create a Team Showcase tab in WordPress menu section\"."
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:62
+msgid ""
+"Step-2: Go to Team Showcase Pro add new team member, member details, member "
+"socials and member image."
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:63
+msgid ""
+"Step-3: Now, paste below shortcode in any page and your team listing is "
+"ready."
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:73
+msgid " Grid view "
+msgstr ""
+
+#: modules/team-showcase/includes/admin/pwpc-ts-how-it-work.php:74
+msgid "Slider view "
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-class-admin.php:44
+msgid "Testimonial Details - PwPc"
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:23
+msgid "How it works - Testimonials PwPc"
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:35
+msgid "How It Works - Testimonials"
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:60
+msgid ""
+"WP Testimonial Plugin is used to display testimonials, reviews or quotes in "
+"a slider, carousel or grid view."
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:61
+msgid "This plugin contains Grid and Slider shortcodes."
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:65
+msgid "Step-1. Go to \"Testimonials – PwPc > Add New\" in admin menu."
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:66
+msgid "Step-2. Add Testimonial title, Testimonial image, description and etc."
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:69
+msgid ""
+"You can create categories under \"Testimonials – PwPc > Category\", assign "
+"Testimonial post to respective categories and display category wise with "
+"category parameter."
+msgstr ""
+
+#: modules/testimonials/includes/admin/pwpc-tmw-how-it-work.php:85
+msgid "Testimonials Grid"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/class-pwpc-tu-admin.php:39
+msgid "Ticker Settings - PwPc"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:23
+msgid "How it works - PwPc Ticker Ultimate"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:35
+msgid "How It Works - Ticker Ultimate"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:59
+msgid "Step-1: This plugin creates Ticker- PwPc tab in WordPress menu section"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:60
+msgid "Step-2: Go to Ticker- PwPc and add new ticker"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:61
+msgid ""
+"Step-3: Now, paste below shortcode in any post or page and your ticker is "
+"ready!!!"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/pwpc-tu-how-it-work.php:71
+msgid "Display post in ticker mode."
+msgstr ""
+
+#: modules/ticker-ultimate/includes/shortcode/pwpc-ticker.php:18
+msgid "Latest News"
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:23
+msgid "How it works - PwPc Timeline"
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:35
+msgid "How It Works - Timeline and History Slider"
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:59
+msgid "Step-1) Go to \"Timeline – PwPc > Add Timeline\"."
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:60
+msgid "Step-2) Add timeline title, description and featured image and etc."
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:61
+msgid ""
+"Step-3) Also you can display multiple timeline with category shortcode. Just "
+"go to \"Timeline – PwPc > Timeline Category\" and create the category."
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:62
+msgid ""
+"Assign the timeline post to respective category and use the category "
+"shortcode to display."
+msgstr ""
+
+#: modules/timeline/includes/admin/pwpc-hs-how-it-work.php:79
+msgid "Timeline Horizontal Slider"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/class-pwpc-vgp-admin.php:39
+msgid "Video Gallery and Player Settings - PwPc"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:23
+msgid "How it works - Video Gallery PwPc"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:35
+msgid "How It Works - Video Gallery"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:59
+msgid ""
+"Step-1: This plugin create a \"Video Gallery Pro\" in WordPress menu section."
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:60
+msgid "Step-2: Click on \"Video Gallery - PwPc > Add new\""
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:61
+msgid "Step-3: Add Video title, link, and video poster image."
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:62
+msgid ""
+"Step-4: You can also create the categories under \"Video Gallery Pro > "
+"Category\". Assign the video under respective category and use category "
+"shortcode to display multiple video galleries. "
+msgstr ""
+
+#: modules/video-gallery/includes/admin/pwpc-vgp-how-it-work.php:79
+msgid "Video Gallery Grid View"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:40
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:116
+msgid "Button Type"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:47
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:53
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:128
+msgid "Select button type."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:64
+msgid "Simple Button Settings"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:68
+msgid "Button Text"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:71
+msgid "Enter button text like. eg. My Button"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:75
+msgid "Button Link"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:78
+msgid "Enter button link. eg. https://www.wponlinesupport.com."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:92
+msgid "Button Settings"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:98
+msgid "Button Color"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:110
+msgid "Select button color."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:134
+msgid "Button Style"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:146
+msgid "Select button style."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:152
+msgid "Button Size"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:164
+msgid "Select button size."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:170
+msgid "Button Target"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:174
+msgid "Same Tab"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:175
+msgid "New Tab"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:177
+msgid "Select link behaviour."
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:182
+msgid "Button Extra CSS Class"
+msgstr ""
+
+#: modules/buttons/includes/admin/metabox/pwpc-bws-post-sett-metabox.php:185
+msgid "Enter extra css class if you want to apply."
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:39
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:47
+msgid "Global CSS"
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:51
+msgid "Enter CSS which will be added to whole site."
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:76
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:84
+msgid "Global JS"
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-plugin-settings.php:88
+msgid "Enter JS which will be added to whole site."
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-settings.php:14
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-settings.php:14
+#: modules/preloader/includes/admin/settings/pwpc-pl-settings.php:14
+msgid "Plugin Settings"
+msgstr ""
+
+#: modules/css-js/includes/admin/settings/pwpc-ccj-settings.php:23
+msgid "Custom CSS - JS Settings"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:50
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:39
+msgid "General Settings"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:69
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:143
+msgid "N/A"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:74
+msgid "Font Family"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:104
+msgid "Add Font"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:105
+msgid "Remove Font"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:113
+msgid "Select google fonts which you want to load on site."
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:119
+msgid "Apply Google Fonts to Element"
+msgstr ""
+
+#: modules/google-fonts/includes/admin/settings/pwpc-gfpw-settings.php:158
+msgid "Select google font for site element."
+msgstr ""
+
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-plugin-settings.php:36
+msgid "Flush Cache"
+msgstr ""
+
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-plugin-settings.php:45
+msgid "Flush All Cache"
+msgstr ""
+
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-plugin-settings.php:60
+msgid "Clear Cache"
+msgstr ""
+
+#: modules/instagram/includes/admin/settings/pwpc-iscwp-plugin-settings.php:68
+msgid "No cache data found."
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/metabox/pwpc-ls-post-sett-metabox.php:25
+msgid "Logo Link"
+msgstr ""
+
+#: modules/logo-showcase/includes/admin/metabox/pwpc-ls-post-sett-metabox.php:29
+msgid "Enter link url for logo. i.e https://www.wponlinesupport.com"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:37
+msgid "Portfolio Link"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:41
+msgid "Enter portfolio link."
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:47
+msgid "Choose Portfolio Gallery Images"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:50
+msgid "Add to Gallery"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:50
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:50
+msgid "Gallery Images"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:51
+msgid "Remove Gallery Images"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:62
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:128
+msgid "Edit Image in Popup"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:63
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:129
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:19
+msgid "Edit Image"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:64
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:130
+msgid "Remove Image"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:71
+msgid "No Gallery Images"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:73
+msgid ""
+"Choose your desired images for gallery. Hold Ctrl key to select multiple "
+"images at a time."
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:79
+msgid "Portfolio Gallery Slider Settings"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:85
+msgid "Slider Arrow"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:89
+msgid "Check this box to enable gallery slider arrow."
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:95
+msgid "Slider Pagination Dots"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:99
+msgid "Check this box to enable gallery slider pagination dots."
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:105
+msgid "Autoplay Interval"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:108
+msgid "Milisecond"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:109
+msgid "Enter slider autoplay interval."
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:115
+msgid "Speed"
+msgstr ""
+
+#: modules/portfolio/includes/admin/metabox/pwpc-pap-sett-metabox.php:119
+msgid "Enter slider speed."
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:30
+msgid "Edit Image From Attachment Page"
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:37
+msgid "Enter image title."
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:42
+msgid "Alternative Text"
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup-data.php:45
+msgid "Enter image alternative text."
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup.php:17
+msgid "Close (Esc)"
+msgstr ""
+
+#: modules/portfolio/includes/admin/settings/pwpc-pap-img-popup.php:22
+msgid "Please Wait"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:48
+msgid "Enable Site Preloader"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:52
+msgid "Check this box to enable preloader."
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:58
+msgid "Spinner"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:147
+msgid "Select spinner design."
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:153
+msgid "Spinner Size"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:157
+msgid "Small - (32 x 32)"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:158
+msgid "Medium - (64 x 64)"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:159
+msgid "Large - (128 x 128)"
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-plugin-settings.php:161
+msgid "Select spinner size."
+msgstr ""
+
+#: modules/preloader/includes/admin/settings/pwpc-pl-settings.php:23
+msgid "Preloader for Website"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:16
+msgid "Smooth Scroll Settings"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:43
+msgid "Mouse Wheel Smooth Scroll Settings"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:53
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:57
+msgid "Check this box if you want to enable Mouse Wheel Smooth Scroll."
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:63
+msgid "Scroll Amount"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:66
+msgid "Step Px"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:67
+msgid ""
+"Enter number of scroll amount to determine how much portion of page will be "
+"scrolled."
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:73
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:122
+msgid "Scroll Speed"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:76
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:125
+msgid "Millisecond"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:77
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:126
+msgid "Enter scrolling speed."
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:104
+msgid "Go To Top Scroll"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:112
+msgid "Enable Go To Top Scroll"
+msgstr ""
+
+#: modules/smooth-scroll/includes/admin/settings/pwpc-ss-settings.php:116
+msgid "Check this box if you want to enable page go to top."
+msgstr ""
+
+#: modules/testimonials/includes/admin/metabox/pwpc-tmw-testimonial-metabox-html.php:27
+msgid "Client Name"
+msgstr ""
+
+#: modules/testimonials/includes/admin/metabox/pwpc-tmw-testimonial-metabox-html.php:36
+msgid "Job Title"
+msgstr ""
+
+#: modules/testimonials/includes/admin/metabox/pwpc-tmw-testimonial-metabox-html.php:45
+msgid "Company"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/metabox/pwpc-tu-post-sett.php:24
+msgid "Read More Link"
+msgstr ""
+
+#: modules/ticker-ultimate/includes/admin/metabox/pwpc-tu-post-sett.php:28
+msgid "Add custom link for the ticker post. e.g"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:27
+msgid "HTML5"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:30
+msgid "Video Link"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:39
+msgid "video/mp4"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:43
+msgid "ie http://videolink.mp4"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:49
+msgid "video/webm"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:53
+msgid "ie http://videolink.webm"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:59
+msgid "video/ogg"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:63
+msgid "ie http://videolink.ogg"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:75
+msgid "Other Link"
+msgstr ""
+
+#: modules/video-gallery/includes/admin/metabox/pwpc-vgp-post-sett-metabox.php:79
+msgid "Enter embed link of video."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Everything you need for website from header to footer. Enhance your website "
+"with PowerPack features. Also work with Gutenberg shortcode block."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.wponlinesupport.com/plugins"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP OnlineSupport"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""

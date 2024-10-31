@@ -1,0 +1,40 @@
+.pwpc-ls-logo-showcase *, .pwpc-ls-filter-wrp *{box-sizing: border-box; outline: none !important;}
+.pwpc-ls-logo-slider .slick-arrow { top:50% !important;margin-top: -20px !important;}
+.pwpc-ls-logo-slider .slick-prev {left: -26px;opacity: 0;filter: alpha(opacity=0); -webkit-transition: all .3s ease; transition: all .3s ease;}
+.pwpc-ls-logo-showcase:hover button.slick-prev {opacity: 1;filter: alpha(opacity=100); left: 10px; -webkit-transition: all .3s ease; transition: all .3s ease;}
+.pwpc-ls-logo-showcase:hover button.slick-next {opacity: 1;filter: alpha(opacity=100); right: 10px !important;  -webkit-transition: all .3s ease; transition: all .3s ease;}
+.pwpc-ls-logo-slider .slick-next{right: -26px !important;left: auto; opacity:0; filter:alpha(opacity=0); -webkit-transition: all .3s ease; transition: all .3s ease;}
+
+/* Slider Common CSS Starts */
+.pwpc-ls-logo-slider{visibility: hidden; opacity:0; transition:opacity 0.5s linear; text-align:center; clear:both;}
+.pwpc-ls-logo-slider-wrp .slick-initialized{visibility: visible; opacity:1;}
+
+.pwpc-ls-logo-slider .slick-arrow {text-indent:-99999px; padding:0 !important; border-radius:0; cursor:pointer;}
+.pwpc-ls-logo-slider button.slick-arrow {width: 30px;height: 30px;position: absolute;z-index:9;border: 0px !important;border-radius: 50% !important;color: #fff; cursor:pointer;}
+.pwpc-ls-logo-slider button.slick-next, .pwpc-ls-logo-slider button.slick-next:hover,  .pwpc-ls-logo-slider button.slick-next:focus, .pwpc-ls-logo-slider button.slick-next:active{background:rgba(00, 00, 0, 0.5) url('../images/arrow-right.png') center center no-repeat !important; box-shadow:none !important;}
+.pwpc-ls-logo-slider button.slick-prev, .pwpc-ls-logo-slider button.slick-prev:hover, .pwpc-ls-logo-slider button.slick-prev:focus, .pwpc-ls-logo-slider button.slick-prev:active{background:rgba(00, 00, 0, 0.5) url('../images/arrow-left.png') center center no-repeat !important; box-shadow:none !important;}
+.pwpc-ls-logo-slider .slick-dots {line-height: 0; padding:0 !important; margin: 10px 0 0 0 !important; text-align:center;}
+.pwpc-ls-logo-slider .slick-dots li {list-style:none !important; display:inline-block !important; margin:0 3px !important; padding:0px !important; }
+.pwpc-ls-logo-slider .slick-dots li button {text-indent:-99999px;margin: 0px !important; padding: 0px !important; border: 2px solid #444 !important; border-radius: 50% !important; width: 12px !important; height: 12px !important; background-color:#fff; cursor:pointer;}
+.pwpc-ls-logo-slider .slick-dots li button:focus {outline:none !important}
+.pwpc-ls-logo-slider .slick-dots li.slick-active button {background:#8D8C8C !important;}
+/* Slider Common CSS Ends */
+
+.pwpc-ls-logo-showcase .slick-slide,
+.pwpc-ls-logo-showcase .slick-slide:focus{outline:0 !important;}
+.pwpc-ls-logo-slider .slick-slide img{display:inline-block !important;}
+.pwpc-ls-logo-slider .slick-slide{text-align:center !important; display: inline-block !important; float:none !important; vertical-align: middle !important; padding: 0 8px;}
+.pwpc-ls-logo-slider .slick-slide .pwpc-ls-logo-title{color:#444;font-size:16px;}
+.pwpc-ls-logo-slider.pwpc-ls-center-mode .slick-slide {opacity: 0.5;filter: alpha(opacity=50);-webkit-transform: scale(0.7); -ms-transform: scale(0.7); transform: scale(0.7); -webkit-transition: all 300ms ease 0s; transition: all 300ms ease 0s;}
+.pwpc-ls-logo-slider.pwpc-ls-center-mode .slick-center{opacity: 1;filter: alpha(opacity=100); -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1);}
+.pwpc-ls-logo-slider .slick-prev:before, .pwpc-ls-logo-slider .slick-next:before{display: none !important;}
+
+.pwpc-ls-logo-showcase img{box-shadow: none !important; border-radius:0 !important;}
+.pwpc-ls-fix-box{width: 100%; box-sizing: border-box;}
+.pwpc-ls-logo-cnt{text-align: center;}
+.pwpc-ls-logo-title{margin-top: 10px; text-align: center; color: #141414; font-size: 18px; font-weight: 600; text-transform: capitalize;}
+.pwpc-ls-fix-box img{box-sizing: border-box; margin: 0 auto; max-height: 250px !important; max-width:100%;}
+
+@media only screen and (max-width: 768px) {	
+	.pwpc-ls-logo-slider.pwpc-ls-center-mode .slick-slide{opacity:1; filter: alpha(opacity=100); -webkit-transform:none; transform:none;}
+}

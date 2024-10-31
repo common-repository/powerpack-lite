@@ -1,0 +1,49 @@
+.pwpc-slw-links-widget *{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; outline:none;}
+.pwpc-slw-links-widget .pwpc-social-icons{font-size:0;}
+.pwpc-slw-links-widget .pwpc-social-icon-link{outline:none;}
+.pwpc-slw-links-widget .pwpc-social-icons .pwpc-social-icon{font-size:20px;}
+.pwpc-social-icons{margin-top: 20px;}
+.pwpc-social-icons .pwpc-social-icon-link{display:inline-block; margin: 3px; text-align: center; text-decoration:none;}
+
+/***** Style 1 ****/
+.pwpc-social-icons .pwpc-social-icon{font-size:14px; width: 45px; height: 45px; line-height:42px; color: #fff; border:2px solid #ddd; box-shadow: 0px 1px 1px #999; border-radius:100%; -webkit-transition: all 0.6s ease-in-out; transition: all 0.6s ease-in-out;}
+.pwpc-social-icons .pwpc-social-icon-link:hover .pwpc-social-icon{background: transparent;color: #1e73be;}
+
+.pwpc-social-icons .pwpc-social-facebook{background: #3b5998;}
+.pwpc-social-icons .pwpc-social-google{background: #dd4b39;}
+.pwpc-social-icons .pwpc-social-behance{background: #053eff;}
+.pwpc-social-icons .pwpc-social-delicious{background: #205cc0;}
+.pwpc-social-icons .pwpc-social-twitter{background: #55acee;}
+.pwpc-social-icons .pwpc-social-instagram{background: #125688;}
+.pwpc-social-icons .pwpc-social-pinterest{background: #cb2027;}
+.pwpc-social-icons .pwpc-social-skype{background: #00AFF0;}
+.pwpc-social-icons .pwpc-social-youtube{background: #bb0000;}
+.pwpc-social-icons .pwpc-social-rss{background:#ff6600;}
+.pwpc-social-icons .pwpc-social-digg{background:#356AA0;}
+.pwpc-social-icons .pwpc-social-dribbble{background:#C73B6F;}
+.pwpc-social-icons .pwpc-social-email{background:#3b5998;}
+.pwpc-social-icons .pwpc-social-flickr{background:#0063DC;}
+.pwpc-social-icons .pwpc-social-foursquare{background:#2d5be3;}
+.pwpc-social-icons .pwpc-social-github{background:#c9510c;}
+.pwpc-social-icons .pwpc-social-html5{background:#ff5733;}
+.pwpc-social-icons .pwpc-social-googleplus{background:#d34836;}
+.pwpc-social-icons .pwpc-social-linkedin{background:#007bb5;}
+.pwpc-social-icons .pwpc-social-paypal{background:#253B80;}
+.pwpc-social-icons .pwpc-social-quora{background:#a62100;}
+.pwpc-social-icons .pwpc-social-reddit{background:#ff4500;}
+.pwpc-social-icons .pwpc-social-slack{background:#edb625;}
+.pwpc-social-icons .pwpc-social-soundcloud{background:#ff7700;}
+.pwpc-social-icons .pwpc-social-spotify{background:#84bd00;}
+.pwpc-social-icons .pwpc-social-steam{background:#666666;}
+.pwpc-social-icons .pwpc-social-stumbleupon{background: #eb4924;}
+.pwpc-social-icons .pwpc-social-tumblr{background:#36465d;}
+.pwpc-social-icons .pwpc-social-vimeo{background:#1ab7ea;}
+.pwpc-social-icons .pwpc-social-whatsapp{background:#00e676;}
+.pwpc-social-icons .pwpc-social-windows{background:#2672EC;}
+.pwpc-social-icons .pwpc-social-wordpress{background:#21759b;}
+.pwpc-social-icons .pwpc-social-yahoo{background:#720e9e;}
+.pwpc-social-icons .pwpc-social-yelp{background:#d32323;}
+.pwpc-social-icons .pwpc-social-xing{background:#006567;}
+.pwpc-social-icons .pwpc-social-deviantart{background:#4e6252;}
+.pwpc-social-icons .pwpc-social-stackoverflow{background: #f48730;}
+.pwpc-social-icons .pwpc-social-jsfiddle{background: #7fc0f8;}

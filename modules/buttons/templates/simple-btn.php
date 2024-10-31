@@ -1,0 +1,1 @@
+<?php/** * Simple button HTML *  * @package PowerPack Lite * @subpackage Buttons with Style * @since 1.0 */// Exit if accessed directlyif ( !defined( 'ABSPATH' ) ) exit;?><a href="<?php echo esc_url($link); ?>" class="<?php echo $button_main_class ;?>" target="<?php echo $target; ?>">	<span class="pwpc-bws-btn-name"><?php echo $btn_name; ?></span></a>
